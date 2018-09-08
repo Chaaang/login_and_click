@@ -4,6 +4,7 @@
 
 
 ## 浏览器插件
+> 在浏览的时候上传token，BaaS服务端进行自动化操作。
 
 ## leancloud app
 
